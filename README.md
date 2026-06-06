@@ -78,7 +78,7 @@ XRCap 核心录制功能**完全免费**。但如果您追求**2D视频极致的
 1. 确保游戏已安装 [BepInEx](https://github.com/BepInEx/BepInEx) 框架（版本 5.x）。
 2. 在 Release 页面下载最新的 `XRCap文件`。
 3. 将解压后的 `VR180Recorder.dll` 及附属的 `vr180shader` 等文件放入游戏的 `BepInEx/plugins` 目录下。
-4. 启动游戏，按下快捷键 `F6` 呼出控制面板，或点击左侧图标。
+4. 启动游戏，按下快捷键 `F6` 呼出控制面板，或点击左侧图标![XRCap Icon](./Resource/xrcap_icon_off.png)
 
 ## ⚙️ 快速上手 (Quick Start)
 

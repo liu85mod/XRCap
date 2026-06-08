@@ -77,20 +77,19 @@ XRCap 普通版和完全版核心录制功能**完全免费**。
 
 ## 📥 安装说明 (Installation)
 
-1. 确保游戏已安装 [BepInEx](https://github.com/BepInEx/BepInEx) 框架（版本 5.x）。
+1. 确保游戏已安装 [BepInEx](https://github.com/BepInEx/BepInEx) 框架（版本 5.4.22以上）。
 2. 在 Release 页面下载最新的 `XRCap文件`。
-3. 将解压后的 `VR180Recorder.dll` 及附属的 `vr180shader` 等文件放入游戏的 `BepInEx/plugins` 目录下。
+3. 将解压后的 `完整文件夹` 放入游戏根目录 覆盖进 `BepInEx` 目录下。
 4. 启动游戏，按下快捷键 `F6` 呼出控制面板，或点击左侧图标 <img src="./Resource/xrcap_icon_off.png" width="32" align="center">
+5. 若呼不出控制面板，请到`F1`的bepinx配置面板找到 `XRCap`，将10. 快捷键 (Hotkeys)"的"Key Toggle GUI"改为未被使用的热键再重新尝试。
 
-
-# 🌟 XRCap 2D 免费精简版发布
 
 ## ⚙️ 快速上手 (Quick Start)
 
 * **呼出菜单**：按 `F6` 切换界面与预览框。
 * **快捷截图**：设置好参数后，可绑定快捷键一键截取无损超采样画面。
-* **开始录制**：在面板中调整好“分辨率”、“编码器”、“输出格式”，点击 **REC** 即可开始。游戏会自动变慢进入逐帧渲染状态，请耐心等待。
-* *(更多详细教程请参考 Wiki 或使用手册...)*
+* **开始录制**：在面板中调整好“分辨率”、“编码器”、“输出格式”，点击 **REC** 即可开始。
+* 游戏会自动变慢进入逐帧渲染状态，游戏画面将实时显示渲染后的画面。
 
 ---
 

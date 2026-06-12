@@ -27,10 +27,9 @@
 
 ## 📥 下载与文档 (Download & Docs)
 
-> ### 🚀 [点击前往 Releases 下载最新版本](https://github.com/liu85mod/XRCap/releases)
-> 
+> 🚀 **[点击前往 Releases 下载最新版本 (Latest Releases)](https://github.com/liu85mod/XRCap/releases)**
+>
 > 🌐 **[Looking for English instructions? Check out the README_EN.md](https://github.com/liu85mod/XRCap/blob/main/README_EN.md)**
-
 ---
 
 ## 🎮 支持的游戏 (Supported Games)

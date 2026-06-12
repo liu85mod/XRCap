@@ -8,7 +8,7 @@
 [![Download](https://img.shields.io/badge/RELEASE-1.1.0-0078D7?style=for-the-badge&logo=github)](https://github.com/liu85mod/XRCap/releases)
 [![Platform](https://img.shields.io/badge/Platform-Unity-black?style=for-the-badge&logo=unity)]()
 [![Patreon](https://img.shields.io/badge/SUPPORT-PATREON-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/liu85)
-[![Payhip](https://img.shields.io/badge/UPGRADE-GET_PRO-FFB800?style=for-the-badge&logo=payhip)](https://payhip.com/XRCap)
+[![Payhip](https://img.shields.io/badge/UPGRADE-GET_PRO-4CAF50?style=for-the-badge&logo=payhip)](https://payhip.com/XRCap)
 
 
 </div>
@@ -94,7 +94,7 @@ XRCap 2D版和完全版的核心录制功能**完全免费**。
 
 * **呼出菜单**：按 `F6` 切换主界面与预览窗口的显示。
 * **快捷截图**：在面板中配置好参数后，可绑定快捷键一键截取无损超采样（SSAA）画面。
-* **开始录制**：在面板中调整好“分辨率”、“编码器”、“输出格式”，点击 **REC** 即可开始。
+* **开始录制**：在面板中调整好“分辨率”、“编码器”、“输出格式”，点击 **开始录制** 即可开始。
 * **录制状态**：启动后游戏会自动进入逐帧渲染状态，游戏将实时显示渲染后的画面,OSD 将实时显示当前渲染进度。
 
 ---

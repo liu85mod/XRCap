@@ -7,7 +7,7 @@
 
 [![Download](https://img.shields.io/badge/DOWNLOAD-RELEASE-0078D7?style=for-the-badge&logo=github)](https://github.com/liu85mod/XRCap/releases)
 [![Patreon](https://img.shields.io/badge/SUPPORT-PATREON-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/liu85)
-[![Payhip](https://img.shields.io/badge/UPGRADE-GET_PRO-FF424D?style=for-the-badge&logo=payhip)](https://payhip.com/XRCap)
+[![Payhip](https://img.shields.io/badge/UPGRADE-GET_PRO-FFB800?style=for-the-badge&logo=payhip)](https://payhip.com/XRCap)
 [![License](https://img.shields.io/badge/License-Free_2D-4CAF50?style=for-the-badge)]()
 
 </div>

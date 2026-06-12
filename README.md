@@ -6,9 +6,10 @@
 
 
 [![Download](https://img.shields.io/badge/RELEASE-1.1.0-0078D7?style=for-the-badge&logo=github)](https://github.com/liu85mod/XRCap/releases)
+[![Platform](https://img.shields.io/badge/Platform-Unity-black?style=for-the-badge&logo=unity)]()
 [![Patreon](https://img.shields.io/badge/SUPPORT-PATREON-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/liu85)
 [![Payhip](https://img.shields.io/badge/UPGRADE-GET_PRO-FFB800?style=for-the-badge&logo=payhip)](https://payhip.com/XRCap)
-[![License](https://img.shields.io/badge/License-Free_LITE-000000?style=for-the-badge)]()
+
 
 </div>
 

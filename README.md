@@ -81,9 +81,13 @@ XRCap 2D版和完全版的核心录制功能**完全免费**。
 
 1. 确保游戏已安装 [BepInEx](https://github.com/BepInEx/BepInEx) 框架（版本 5.4.22 及以上）。
 2. 在 **[Release 页面](https://github.com/liu85mod/XRCap/releases)** 下载最新的 `XRCap` 压缩包。
-3. 将解压后的完整文件夹放入游戏根目录，覆盖合并到 `BepInEx` 目录下。
-4. 启动游戏，按下快捷键 `F6` 呼出控制面板，或点击左侧图标 <img src="./Resource/xrcap_icon_off.png" width="32" align="center">
-5. 若快捷键冲突或无法呼出，请在游戏内按下 `F1` 打开 BepInEx 配置面板，
+
+   * XRCap_HS2_2D：只包含2D录制功能的版本。
+   * XRCap_HS2_FULL：包含所有功能的版本。
+  
+4. 将解压后的完整文件夹放入游戏根目录，覆盖合并到 `BepInEx` 目录下。
+5. 启动游戏，按下快捷键 `F6` 呼出控制面板，或点击左侧图标 <img src="./Resource/xrcap_icon_off.png" width="32" align="center">
+6. 若快捷键冲突或无法呼出，请在游戏内按下 `F1` 打开 BepInEx 配置面板，
    找到 `XRCap` 模块，将 `Key Toggle GUI` 修改为其他未被占用的热键。
 
 ## ⚙️ 快速上手 (Quick Start)

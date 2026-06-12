@@ -6,9 +6,9 @@
 
 
 [![Download](https://img.shields.io/badge/RELEASE-1.1.0-0078D7?style=for-the-badge&logo=github)](https://github.com/liu85mod/XRCap/releases)
-[![Platform](https://img.shields.io/badge/Platform-Unity-black?style=for-the-badge&logo=unity)]()
+[![Platform](https://img.shields.io/badge/Platform-Unity-4CAF50?style=for-the-badge&logo=unity)]()
 [![Patreon](https://img.shields.io/badge/SUPPORT-PATREON-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/liu85)
-[![Payhip](https://img.shields.io/badge/UPGRADE-GET_PRO-4CAF50?style=for-the-badge&logo=payhip)](https://payhip.com/XRCap)
+[![Payhip](https://img.shields.io/badge/UPGRADE-GET_PRO-FFB800?style=for-the-badge&logo=payhip)](https://payhip.com/XRCap)
 
 
 </div>
@@ -84,7 +84,7 @@ XRCap 2D版和完全版的核心录制功能**完全免费**。
 
    * XRCap_HS2_2D：只包含2D录制功能的版本。
    * XRCap_HS2_FULL：包含所有功能的版本。
-  
+
 4. 将解压后的完整文件夹放入游戏根目录，覆盖合并到 `BepInEx` 目录下。
 5. 启动游戏，按下快捷键 `F6` 呼出控制面板，或点击左侧图标 <img src="./Resource/xrcap_icon_off.png" width="32" align="center">
 6. 若快捷键冲突或无法呼出，请在游戏内按下 `F1` 打开 BepInEx 配置面板，
